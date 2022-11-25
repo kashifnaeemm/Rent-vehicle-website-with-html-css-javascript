@@ -5,6 +5,8 @@ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 text-decoration: none;}
 body{
     background: rgb(212, 212, 212);
+    width: 1340px;
+    margin: auto;
 }
 
 
